@@ -50,7 +50,7 @@ Ejemplo de tablas generadas:
 
 Estas tablas almacenan las distintas versiones de cada registro junto con información de revisión.
 
-Estructura del proyecto
+##Estructura del proyecto
 
 src
  ├── model
@@ -58,7 +58,7 @@ src
  ├── service
  └── config
 
- Casos de uso de Envers
+##Casos de uso de Envers
 
 Hibernate Envers es útil en sistemas que requieren:
 
