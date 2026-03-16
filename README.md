@@ -38,7 +38,7 @@ Para habilitar auditoría en una entidad se utiliza la anotación:
 @Audited
 @Entity
 public class Producto {
-}
+}```
 
 Al persistir cambios, Envers genera automáticamente tablas de auditoría con el historial de revisiones.
 
