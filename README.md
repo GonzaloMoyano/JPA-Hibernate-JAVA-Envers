@@ -42,7 +42,7 @@ public class Producto {
 
 Al persistir cambios, Envers genera automáticamente tablas de auditoría con el historial de revisiones.
 
-Ejemplo de tablas generadas:
+## Ejemplo de tablas generadas:
 
 - producto
 - producto_AUD
@@ -50,7 +50,7 @@ Ejemplo de tablas generadas:
 
 Estas tablas almacenan las distintas versiones de cada registro junto con información de revisión.
 
-##Estructura del proyecto
+## Estructura del proyecto
 
 src
  ├── model
